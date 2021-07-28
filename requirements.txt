@@ -1,0 +1,4 @@
+dotenv==0.0.5
+openai==0.10.1
+pytumblr==0.1.0
+typing==3.10.0.0
